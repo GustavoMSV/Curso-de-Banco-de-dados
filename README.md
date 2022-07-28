@@ -1,14 +1,14 @@
 # Exercicio Livaria 
 > Este projeto é um exercicio do curso de SQL e Banco de dados que estou realizando pela plataforma Udemy com o Professor Felipe Mafra.
 
-####SoftWares Utilizados: 
+#### SoftWares Utilizados: 
 - MySQL
 - NotePad
 - VirtualBOX
 ---
 _**Criação da DataBase:**_
 
-![gustavo](print.png "Print MySQL e NotePad")
+<img src="D:\sql completo\bancos de dados\print.png"/>
 
 ---
 
@@ -58,7 +58,9 @@ AND UF = 'SP';
 [O curso completo de Banco de Dados e SQL, sem mistérios!][curso]
 
 [curso]:https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/
+
 ---
+
 ## Contato 
 
 Gustavo Moreno - [Linkedin](https://www.linkedin.com/in/gustavo-moreno-5803a0229)
