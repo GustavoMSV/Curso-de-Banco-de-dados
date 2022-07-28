@@ -8,7 +8,7 @@
 ---
 _**Criação da DataBase:**_
 
-<img src="D:\sql completo\bancos de dados\print.png"/>
+![img](print.png)
 
 ---
 
