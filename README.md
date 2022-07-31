@@ -1,4 +1,4 @@
-# Exercicio Livaria 
+# Exercicio Livraria 
 > Este projeto é um exercicio do curso de SQL e Banco de dados que estou realizando pela plataforma Udemy com o Professor Felipe Mafra.
 
 #### SoftWares Utilizados: 
